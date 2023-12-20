@@ -1,4 +1,4 @@
-package br.com.haiyu.identificacaoms.models;
+package marcos.identificacaorpg.models;
 
 
 import jakarta.persistence.Entity;
@@ -20,6 +20,7 @@ import lombok.Setter;
 @AllArgsConstructor
 @NoArgsConstructor
 public class User {
+
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;

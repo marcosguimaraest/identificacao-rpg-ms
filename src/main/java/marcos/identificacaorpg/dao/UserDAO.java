@@ -1,4 +1,4 @@
-package br.com.haiyu.identificacaoms.dao;
+package marcos.identificacaorpg.dao;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

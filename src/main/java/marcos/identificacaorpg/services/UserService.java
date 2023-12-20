@@ -1,9 +1,8 @@
-package br.com.haiyu.identificacaoms.services;
+package marcos.identificacaorpg.services;
 
+import marcos.identificacaorpg.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
-import br.com.haiyu.identificacaoms.repositories.UserRepository;
 
 @Service
 public class UserService {

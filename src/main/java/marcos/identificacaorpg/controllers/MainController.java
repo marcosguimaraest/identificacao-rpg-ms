@@ -1,4 +1,4 @@
-package br.com.haiyu.identificacaoms.controllers;
+package marcos.identificacaorpg.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

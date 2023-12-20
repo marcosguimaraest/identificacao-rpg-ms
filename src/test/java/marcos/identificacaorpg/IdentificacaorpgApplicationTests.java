@@ -1,10 +1,10 @@
-package br.com.haiyu.identificacaoms;
+package marcos.identificacaorpg;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class IdentificacaomsApplicationTests {
+class IdentificacaorpgApplicationTests {
 
 	@Test
 	void contextLoads() {
